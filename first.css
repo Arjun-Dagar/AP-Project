@@ -25,7 +25,7 @@
 }
 
 .ul_1 a {
-  color: #488bef;
+  color: #58a9cc;
 }
 
 .nav_ul li {
@@ -50,7 +50,7 @@
 
 .nav3{
     padding: 4px 0px;
-    background: rgb(179, 174, 174);
+    background: #dee4ec;
 }
 
 .nav3 ul{
@@ -59,7 +59,7 @@
 }
 
 .ul_2 li a{
-    color: #488bef;
+    color: #58a9cc;
 }
 
 .nav ul li{
@@ -121,12 +121,14 @@
 }
 
 .ques{
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
+    color: #9b9288;
+    font-style: italic;
 }
 
 .box2 button{
     text-decoration: underline;
-    color: #488bef;
+    color: #58a9cc;
     margin-right: 8px;
 }
 
@@ -146,7 +148,7 @@
 
 .box3 button{
     text-decoration: underline;
-    color: #488bef;
+    color: #58a9cc;
     margin-right: 8px;
 }
 
@@ -164,7 +166,7 @@
 
 .ans2{
     text-decoration: underline;
-    color: #488bef;
+    color: #58a9cc;
     display: flex;
 }
 
@@ -219,7 +221,7 @@
 
 .box5 ul li a{
     text-decoration: underline;
-    color: #488bef;
+    color: #58a9cc;
 }
 
 .box5 p{
