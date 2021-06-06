@@ -14,7 +14,7 @@
 
 .nav1 {
   justify-content: flex-end;
-  background: #000000c7;
+  background: #273144;
   padding: 2px 0px;
 }
 
@@ -33,13 +33,13 @@
 }
 
 .nav2 {
-  background: repeating-linear-gradient(
-    135deg,
-    #9ba6df 0,
-    #9ba6df 2px,
-    #0b2555 2px,
-    #0b2555 9px
-  );
+    background: repeating-linear-gradient(
+        135deg,
+        #192c49 0,
+        #192c49 2px,
+        #142138 2px,
+        #142138 9px
+      );
 }
 
 .nav2 h1 {
@@ -133,15 +133,15 @@
 .line_bg{
     background: repeating-linear-gradient(
         135deg,
-        #9ba6df 0,
-        #9ba6df 2px,
-        #0b2555 2px,
-        #0b2555 9px
+        #192c49 0,
+        #192c49 2px,
+        #142138 2px,
+        #142138 9px
       );
 }
 
 .plane_bg{
-    background-color: #0b2555;
+    background-color: #273144;
 }
 
 .box3 button{
