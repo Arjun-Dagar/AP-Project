@@ -54,6 +54,7 @@
 }
 
 .nav3 ul{
+    flex-wrap: wrap;
     margin-left: 9%;
 }
 
